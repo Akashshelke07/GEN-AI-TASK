@@ -1,4 +1,4 @@
-## **Ultimate Text Summarization & Learning Prompt**
+**Ultimate Text Summarization & Learning Prompt**
 
 
 
